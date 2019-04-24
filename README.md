@@ -21,6 +21,6 @@ Then visit http://localost:3000
 
 ## Thanks
 - `hypernova`
-- `hypernova-vue`, Thanks Filipe for his initial work
+- `hypernova-vue`, Thanks Felipe Guizar Diaz for his initial work
 
 
