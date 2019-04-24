@@ -1,0 +1,16 @@
+{
+  "name": "vueapp",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.0.2",
+    "hypernova": "^2.5.0",
+    "hypernova-vue": "^2.0.0",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.0",
+    "vue-server-renderer": "^2.6.10",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.3.1"
+  }
+}
