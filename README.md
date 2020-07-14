@@ -52,7 +52,7 @@ module ApplicationHelper
 end
 ```
 
-5. At `initializer/hypernova.rb`
+5. At `config/initializers/hypernova.rb`
 ```
 require 'hypernova'
 require 'hypernova/plugins/development_mode_plugin'
